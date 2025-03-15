@@ -1,0 +1,34 @@
+{
+  "basics": {
+    "name": "Timothy Batchelder",
+    "title": "Your Professional Title",
+    "image": "/images/profile.jpg",
+    "email": "pegacorn@optonline.net",
+    "phone": "631-316-3987",
+    "url": "https://yourusername.github.io",
+    "summary": "Brief summary about your professional background and focus",
+    "location": {
+      "city": "Medford",
+      "countryCode": "US",
+      "region": "NY",
+      "zipcode": "11763"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "yourusername",
+        "url": "https://github.com/yourusername"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "yourlinkedinusername",
+        "url": "https://linkedin.com/in/yourlinkedinusername"
+      },
+      {
+        "network": "CodePen",
+        "username": "yourlinkedinusername",
+        "url": "https://linkedin.com/in/yourlinkedinusername"
+      }
+    ]
+  }
+}
